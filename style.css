@@ -394,12 +394,12 @@ ul.iconList li a:hover {
 }
 
 .sideCardLinksSingle:hover h3 {
-  color: #e400c8;
+  color: #00D0EC;
   transition: .5s;
 }
 
 .sideCardLinksSingle:hover i {
-  color: #e400c8;
+  color: #00D0EC;
   transition: .5s;
 }
 
