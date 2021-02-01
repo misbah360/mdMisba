@@ -5,11 +5,13 @@
   margin: 0px;
   padding: 0;
 }
-
+html
+{
+scroll-behavior:smooth;
+}
 p {
   font-family: 'Markazi Text', serif;
 }
-
 body {
   background: #212529;
 }
@@ -22,7 +24,7 @@ body {
 .wideContainer {
   width: 1670px;
   margin: auto;
-}
+}]
 
 section {
   padding: 0px 0px;
@@ -607,7 +609,7 @@ section#ourServices {
 }
 
 .singleService {
-  width: 352px;
+  width: 360px;
   height: 340px;
   background: #050713;
   margin-bottom: 50px;
@@ -616,7 +618,6 @@ section#ourServices {
   margin-right: 35px;
   margin-left: 30px;
   box-shadow: -12px -12px 12px rgba(255, 255, 255, 0.2), 12px 12px 12px rgba(0, 0, 0, 0.1);
-  border: 3px solid #00d0ec;
 }
 
 .singleServiceIcon {
