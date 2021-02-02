@@ -609,7 +609,7 @@ section#ourServices {
 }
 
 .singleService {
-  width: 360px;
+  width: 350px;
   height: 340px;
   background: #050713;
   margin-bottom: 50px;
@@ -618,6 +618,7 @@ section#ourServices {
   margin-right: 35px;
   margin-left: 30px;
   box-shadow: -12px -12px 12px rgba(255, 255, 255, 0.2), 12px 12px 12px rgba(0, 0, 0, 0.1);
+  border: 5px solid #00d0ec;
 }
 
 .singleServiceIcon {
